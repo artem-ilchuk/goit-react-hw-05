@@ -1,0 +1,25 @@
+.head {
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  background-color: #0d253f;
+  padding: 20px 30px;
+  border-bottom: 3px solid #90cea1;
+}
+.link {
+  color: white;
+  font-size: 26px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.nav {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.active {
+  color: rgb(255, 0, 0);
+  text-decoration: underline;
+}

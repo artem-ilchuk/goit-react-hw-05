@@ -1,0 +1,10 @@
+.reviews {
+  background-color: #01b4e4;
+  padding: 20px;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  min-width: 100px;
+  gap: 30px;
+}
